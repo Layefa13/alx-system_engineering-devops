@@ -1,2 +1,2 @@
-#!/bin//bash
-find -type f -name "*.gif" | rev | cut -d "/" -f 1 | cut -d '.' -f 2- | rev | LC_ALL-C sort -f
+#!/bin/bash
+https://alx-students.slack.com/archives/D05HCF625A4/p1689161311008119
